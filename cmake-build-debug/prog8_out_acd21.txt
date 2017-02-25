@@ -1,0 +1,34 @@
+Male Runners:
+
+123
+234
+567
+569
+898
+656
+987
+229
+453
+540
+110
+
+Runner 567 has the fastest time of 80.4 minutes.
+The average time for male finishers is 96.6 minutes. 
+
+Female Runners:
+
+223
+442
+221
+786
+765
+145
+434
+332
+367
+
+
+Runner 786 has the fastest time of 94.3 minutes.
+The average time for female finishers is 109.5 minutes. 
+
+13 out of 20 runners finished the race.
